@@ -58,7 +58,7 @@ const CONFIG = {
     discord: '',
     website: 'https://moyizgit.github.io/',
     phone: '',
-    email: 'mooussasoow@gmail.com',
+    email: '',
   },
   resume: {
     fileUrl:
