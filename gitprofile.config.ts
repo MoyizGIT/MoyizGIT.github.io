@@ -115,13 +115,13 @@ const CONFIG = {
   ],
   publications: [
     {
-      title: 'Publication Title',
+      title: 'Bioinformatics Techniques for Analyzing 16S rRNA Sequencing Data from Illumina MiSeq in Water Microbiome Studies: A Literature Review',
       conferenceName: '',
-      journalName: 'Journal Name',
-      authors: 'John Doe, Jane Smith',
+      journalName: 'Personal publication',
+      authors: 'Moussa SOW',
       link: 'https://example.com',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'This comprehensive literature review examines recent advances in bioinformatics techniques for analyzing 16S rRNA sequencing data from Illumina MiSeq platforms in water microbiome studies. Based on extensive searches of NCBI/PubMed databases focusing on publications from 2022-2025, this review synthesizes current best practices, common workflows, tools, reference databases, and emerging trends in the field.',
     },
     {
       title: 'Publication Title',
