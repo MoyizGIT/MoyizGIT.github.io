@@ -119,7 +119,7 @@ const CONFIG = {
       conferenceName: '',
       journalName: 'Personal publication',
       authors: 'Moussa SOW',
-      link: '16S rRNA litterature review.pdf',
+      link: '/public/16S rRNA litterature review.pdf',
       description:
         'This comprehensive literature review examines recent advances in bioinformatics techniques for analyzing 16S rRNA sequencing data from Illumina MiSeq platforms in water microbiome studies. Based on extensive searches of NCBI/PubMed databases focusing on publications from 2022-2025, this review synthesizes current best practices, common workflows, tools, reference databases, and emerging trends in the field.',
     },
