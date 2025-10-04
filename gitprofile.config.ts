@@ -113,6 +113,12 @@ const CONFIG = {
       from: '2019',
       to: '2021',
     },
+     {
+      institution: 'Université Cheikh Anta Diop',
+      degree: 'Licence in Biology Chemestry and Geology',
+      from: '2018',
+      to: '2015',
+    },
   ],
   publications: [
     {
