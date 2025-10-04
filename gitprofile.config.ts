@@ -73,31 +73,39 @@ const CONFIG = {
     'MySQL',
     'Git',
     'Docker',
+    'HTML',
     'CSS',
+    'JavaScript'
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Nestlé Waters',
+      position: 'Bioinformatician',
+      from: 'September 2024',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://www.nestle-waters.fr/marques/vittel',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Nestlé Waters',
+      position: 'Bioinformatician intern',
+      from: 'Marc 2024',
+      to: 'August 2024',
+      companyLink: 'https://www.nestle-waters.fr/marques/vittel',
     },
   ],
   certifications: [
     {
       name: 'Front-End development',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
-    },
+      body: 'Delivered by meta via Coursera',
+      year: 'July 2025',
+      link: 'https://www.coursera.org/account/accomplishments/verify/SYHTBF17WJJE',
+    }, 
+    {
+      name: 'Start Your API Testing Journey With Postman Tool',
+      body: 'Delivered by Coursera',
+      year: 'July 2025',
+      link: 'https://www.coursera.org/account/accomplishments/verify/QFKW3DPXA82X',      
+    }
   ],
   educations: [
     {
