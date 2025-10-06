@@ -39,9 +39,8 @@ const CONFIG = {
           imageUrl:
             '',
           link: '',
-        },
-        ,
-      ],
+        }
+      ]
     },
   },
   seo: { title: 'Portfolio of Ariful Alam', description: '', imageURL: '' },
@@ -84,7 +83,7 @@ const CONFIG = {
       from: 'Marc 2024',
       to: 'August 2024',
       companyLink: 'https://www.nestle-waters.fr/marques/vittel',
-    },
+    }
   ],
   certifications: [
     {
@@ -118,7 +117,7 @@ const CONFIG = {
       degree: 'Licence in Biology Chemestry and Geology',
       from: '2018',
       to: '2015',
-    },
+    }
   ],
   publications: [
     {
