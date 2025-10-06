@@ -43,7 +43,7 @@ const CONFIG = {
       ]
     },
   },
-  seo: { title: 'Portfolio of Ariful Alam', description: '', imageURL: '' },
+  seo: { title: 'Portfolio of Moussa Sow', description: '', imageURL: '' },
   social: {
     linkedin: 'https://fr.linkedin.com/in/moussa-sow-2020',
     youtube: '', // example: 'pewdiepie'
@@ -80,7 +80,7 @@ const CONFIG = {
     {
       company: 'Nestlé Waters',
       position: 'Bioinformatician intern',
-      from: 'Marc 2024',
+      from: 'March 2024',
       to: 'August 2024',
       companyLink: 'https://www.nestle-waters.fr/marques/vittel',
     }
@@ -115,8 +115,8 @@ const CONFIG = {
      {
       institution: 'Université Cheikh Anta Diop',
       degree: 'Licence in Biology Chemestry and Geology',
-      from: '2018',
-      to: '2015',
+      from: '2015',
+      to: '2018',
     }
   ],
   publications: [
@@ -129,7 +129,7 @@ const CONFIG = {
       description:
         'This comprehensive literature review examines recent advances in bioinformatics techniques for analyzing 16S rRNA sequencing data from Illumina MiSeq platforms in water microbiome studies. Based on extensive searches of NCBI/PubMed databases focusing on publications from 2022-2025, this review synthesizes current best practices, common workflows, tools, reference databases, and emerging trends in the field.',
     },
- ,
+ 
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
